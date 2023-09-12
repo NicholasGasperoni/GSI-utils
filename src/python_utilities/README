@@ -5,3 +5,6 @@ lib/
 
 bin/
    proc_gsistat.py - process gsistat files and make quick plots
+   mrms2fv3grid.py - interpolate mrms 3d reflectivity to 
+		     fv3sar_tile1_mask file for obs-aware RTPS 
+                      
